@@ -2,7 +2,7 @@
 
 <! --
 - 🔭 Atualmente estou trabalhando na Tray - Tecnologia para e-commerce na area de Suporte Técnico
-- 🌱 Atualmente estou aprendendo QA
+- 🌱 Atualmente estou relembrando Lógica de programação e aprendendo QA
 -->
 
 <div>
