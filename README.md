@@ -1,7 +1,7 @@
 # Olá, me chamo Talita ! 
 
 <! --
-- 🔭 Atualmente estou trabalhando na Tray - Tecnologia para e-commerce na area de Suporte Técnico
+- 🔭 Atualmente estou desempregada
 - 🌱 Atualmente estou relembrando Lógica de programação e aprendendo QA
 -->
 
